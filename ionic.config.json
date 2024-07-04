@@ -1,0 +1,7 @@
+{
+  "name": "dream-wedding-mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
